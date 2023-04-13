@@ -1,0 +1,78 @@
+19:57:48.186 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+19:57:48.220 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:57:48.221 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:57:48.222 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:57:48.235 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+19:57:48.251 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:57:48.252 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:57:48.253 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:57:48.267 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+19:57:55.158 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:57:55.160 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:57:55.161 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:57:55.178 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+19:57:55.198 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:57:55.201 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:57:55.204 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:57:55.217 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+19:57:55.268 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:57:55.269 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:57:55.270 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:57:55.285 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+19:57:55.301 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:57:55.302 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:57:55.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:57:55.315 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+19:58:00.623 [main] INFO  api.test.UserTests - *** Creating user ***
+19:58:01.938 [main] INFO  api.test.UserTests - *** User is created ***
+19:58:01.944 [main] INFO  api.test.UserTests - ***Reading user info ***
+19:58:03.109 [main] INFO  api.test.UserTests - ***user info is displayed ***
+19:58:03.112 [main] INFO  api.test.UserTests - ***Updating user info ***
+19:58:05.581 [main] INFO  api.test.UserTests - ***user info is updated***
+19:58:05.583 [main] INFO  api.test.UserTests - ***Deleting user info ***
+19:58:06.781 [main] INFO  api.test.UserTests - ***user info is deleted ***
+20:00:39.700 [main] DEBUG api.test.UserTests2 - debugging.....
+20:00:39.724 [main] INFO  api.test.UserTests2 - ********** Creating user  ***************
+20:00:44.264 [main] INFO  api.test.UserTests2 - **********User is creatged  ***************
+20:00:44.287 [main] INFO  api.test.UserTests2 - ********** Reading User Info ***************
+20:00:45.520 [main] INFO  api.test.UserTests2 - **********User info  is displayed ***************
+20:00:45.523 [main] INFO  api.test.UserTests2 - ********** Updating User ***************
+20:00:46.786 [main] INFO  api.test.UserTests2 - ********** User updated ***************
+20:00:47.978 [main] INFO  api.test.UserTests2 - **********   Deleting User  ***************
+20:00:49.142 [main] INFO  api.test.UserTests2 - ********** User deleted ***************
+20:01:23.709 [main] DEBUG api.test.UserTests2 - debugging.....
+20:01:23.740 [main] INFO  api.test.UserTests2 - ********** Creating user  ***************
+20:01:27.979 [main] INFO  api.test.UserTests2 - **********User is creatged  ***************
+20:01:28.001 [main] INFO  api.test.UserTests2 - ********** Reading User Info ***************
+20:01:29.256 [main] INFO  api.test.UserTests2 - **********User info  is displayed ***************
+20:01:29.266 [main] INFO  api.test.UserTests2 - ********** Updating User ***************
+20:01:30.540 [main] INFO  api.test.UserTests2 - ********** User updated ***************
+20:01:31.781 [main] INFO  api.test.UserTests2 - **********   Deleting User  ***************
+20:01:32.999 [main] INFO  api.test.UserTests2 - ********** User deleted ***************
+20:04:46.404 [main] DEBUG api.test.UserTests2 - debugging.....
+20:04:46.424 [main] INFO  api.test.UserTests2 - ********** Creating user  ***************
+20:04:50.583 [main] INFO  api.test.UserTests2 - **********User is creatged  ***************
+20:04:50.606 [main] INFO  api.test.UserTests2 - ********** Reading User Info ***************
+20:04:51.882 [main] INFO  api.test.UserTests2 - **********User info  is displayed ***************
+20:04:51.890 [main] INFO  api.test.UserTests2 - ********** Updating User ***************
+20:04:53.086 [main] INFO  api.test.UserTests2 - ********** User updated ***************
+20:04:54.279 [main] INFO  api.test.UserTests2 - **********   Deleting User  ***************
+20:04:55.502 [main] INFO  api.test.UserTests2 - ********** User deleted ***************
+20:05:34.711 [main] DEBUG api.test.UserTests2 - debugging.....
+20:05:34.741 [main] INFO  api.test.UserTests2 - ********** Creating user  ***************
+20:05:39.095 [main] INFO  api.test.UserTests2 - **********User is creatged  ***************
+20:05:39.123 [main] INFO  api.test.UserTests2 - ********** Reading User Info ***************
+20:05:40.313 [main] INFO  api.test.UserTests2 - **********User info  is displayed ***************
+20:05:40.322 [main] INFO  api.test.UserTests2 - ********** Updating User ***************
+20:05:41.513 [main] INFO  api.test.UserTests2 - ********** User updated ***************
+20:05:42.734 [main] INFO  api.test.UserTests2 - **********   Deleting User  ***************
+20:05:43.863 [main] INFO  api.test.UserTests2 - ********** User deleted ***************
+21:07:55.102 [main] DEBUG api.test.UserTests2 - debugging.....
+21:07:55.134 [main] INFO  api.test.UserTests2 - ********** Creating user  ***************
+21:07:59.377 [main] INFO  api.test.UserTests2 - **********User is creatged  ***************
+21:07:59.393 [main] INFO  api.test.UserTests2 - ********** Reading User Info ***************
+21:08:00.670 [main] INFO  api.test.UserTests2 - **********User info  is displayed ***************
+21:08:00.673 [main] INFO  api.test.UserTests2 - ********** Updating User ***************
+21:08:04.093 [main] INFO  api.test.UserTests2 - ********** User updated ***************
+21:08:05.182 [main] INFO  api.test.UserTests2 - **********   Deleting User  ***************
+21:08:06.403 [main] INFO  api.test.UserTests2 - ********** User deleted ***************
